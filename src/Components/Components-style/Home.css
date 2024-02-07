@@ -1,0 +1,12 @@
+.homepage {
+  background-color: #000000;
+}
+.main-content {
+  background-color: #001724;
+  background: linear-gradient(#001724 10%, #000000 90%);
+  padding: 10px;
+  padding-bottom: 50px;
+  border-radius: 50px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
